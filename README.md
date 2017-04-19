@@ -1,9 +1,14 @@
-# api documentation for  [rtail (v0.2.1)](https://github.com/kilianc/rtail)  [![npm package](https://img.shields.io/npm/v/npmdoc-rtail.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rtail) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rtail.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rtail)
+# npmdoc-rtail
+
+#### api documentation for  [rtail (v0.2.1)](https://github.com/kilianc/rtail)  [![npm package](https://img.shields.io/npm/v/npmdoc-rtail.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-rtail) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-rtail.svg)](https://travis-ci.org/npmdoc/node-npmdoc-rtail)
+
 #### Terminal output to the browser in seconds, using UNIX pipes.
 
-[![NPM](https://nodei.co/npm/rtail.png?downloads=true)](https://www.npmjs.com/package/rtail)
+[![NPM](https://nodei.co/npm/rtail.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/rtail)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-rtail/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-rtail_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rtail/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-rtail/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-rtail/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-rtail/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-rtail/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-rtail/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Kilian Ciuffolo",
-        "email": "me@nailik.org"
+        "name": "Kilian Ciuffolo"
     },
     "bin": {
         "rtail": "./cli/rtail-client.js",
@@ -94,13 +98,11 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "kilianc",
-            "email": "me@nailik.org"
+            "name": "kilianc"
         }
     ],
     "name": "rtail",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+ssh://git@github.com/kilianc/rtail.git"
@@ -113,16 +115,6 @@
     "version": "0.2.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module rtail](#apidoc.module.rtail)
-
-
-
-# <a name="apidoc.module.rtail"></a>[module rtail](#apidoc.module.rtail)
 
 
 
